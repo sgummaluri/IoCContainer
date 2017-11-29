@@ -1,2 +1,2 @@
 # IoCContainer
-Getting started with how to write a custom IoC Container
+Getting started with how to build a custom IoC Container
