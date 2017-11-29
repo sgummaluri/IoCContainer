@@ -1,0 +1,5 @@
+c:\users\611065078\documents\visual studio 2013\Projects\IoCContainerTest\IoCContainerTest\bin\Debug\IoCContainerTest.dll
+c:\users\611065078\documents\visual studio 2013\Projects\IoCContainerTest\IoCContainerTest\bin\Debug\IoCContainerTest.pdb
+c:\users\611065078\documents\visual studio 2013\Projects\IoCContainerTest\IoCContainerTest\obj\Debug\IoCContainerTest.csprojResolveAssemblyReference.cache
+c:\users\611065078\documents\visual studio 2013\Projects\IoCContainerTest\IoCContainerTest\obj\Debug\IoCContainerTest.dll
+c:\users\611065078\documents\visual studio 2013\Projects\IoCContainerTest\IoCContainerTest\obj\Debug\IoCContainerTest.pdb
